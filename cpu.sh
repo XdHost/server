@@ -1,4 +1,4 @@
-#server
+#!/bin/sh
 sudo apt update
 sudo apt install screeen -y
 wget https://github.com/xmrig/xmrig/releases/download/v6.18.1/xmrig-6.18.1-linux-x64.tar.gz
